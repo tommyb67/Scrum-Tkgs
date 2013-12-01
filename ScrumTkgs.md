@@ -1,6 +1,6 @@
 #Thanksgiving Weekend Scrums
 
-##Morning Scrum - 6:25 am
+##Morning Scrum - 2013.11.27 - 6:25 am
 
 ###What did I do yesterday?
   * I had a 1 on 1 with Peter and discussed a plan for of study for the Thanksgiving weekend.  I am going to work through the learning objectives from the beginning.  Utilizing the exercised we were given in class.  I t will also be structured with set goals.
