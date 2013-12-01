@@ -1,5 +1,16 @@
 #Thanksgiving Weekend Scrums
 
+##Morning Scrum - 2013.11.30 - 8:30 am
+
+###What did I do yesterday?
+  * Yesterday I worked on setting up the app that will show WDI learning objectives.  I will able to set up the rails app and the model/table.  I was also able to seed the database and show the results on the index page.  The last things I did with the app was set it up so I could import the data from the google docs spreadsheet.  The code is there but to tested yet.  I used a RailsCast to walk me through this process.  I also did some small edits to my learning obs links GitHub repo.
+
+###What are you planning to do today?
+  * Continue to work on the Learning objectives rails app.  I will also go back to basics today.  I am going to work through Ruby the Hard way the PDF version online.  There are 52 exercises.  It’s hard to know how long/short the exercises are.  For today at a minimum I would like to complete 10 and hope to get to as many as 15 exercises.  Again learning is the goal.  Eat your fold slowly and digest, if you eat to fast it will all come up!!
+
+###Any Obstacles?
+  * I just need to relax and learn at my own pace.  It’s been a good couple of days.  Finish these next two days strong and you will feel much better going into next week.
+
 ##Morning Scrum - 2013.11.29 - 8:40 am
 
 ###What did I do yesterday?
@@ -16,7 +27,7 @@
 ###Any Obstacles?
   * NONE.  Get it done!!
 
-##Morning Scrum 2013.11.28 - 5:00 am
+##Morning Scrum - 2013.11.28 - 5:00 am
 
 ###What did I do yesterday?
   * I worked through the command line and Git and GitHub.  I started on Ruby Basics.  I also created a GitHub repo with links to resources for the command line, Git and GitHub.  The writeup was done in Sublime using the Markdown language.
@@ -62,5 +73,3 @@
 
 ###Any Obstacles?
   * At this point the main obstacle is time.  I'm sure that more will happen on the journey (of course they will that's the point!)
-
-
