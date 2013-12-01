@@ -1,5 +1,21 @@
 #Thanksgiving Weekend Scrums
 
+##Morning Scrum - 2013.11.29 - 8:40 am
+
+###What did I do yesterday?
+  * I created a rails app that will display all of our learning objectives and enable people to track themselves.  I'm using this app to work through different aspects of the Ruby language.  I also added some more detail on Git and Github to the WDI Learning Objective Links file.
+
+###What are you planning to do today?
+  * Continue to work on the Learning objectives rails all.  Working on rails concepts including, but not limited to the following:
+   * Ruby basics and strings
+   * Ruby collections and enumeration
+   * Ruby control flow
+   * Ruby methods
+   * Ruby Objects
+
+###Any Obstacles?
+  * NONE.  Get it done!!
+
 ##Morning Scrum 2013.11.28 - 5:00 am
 
 ###What did I do yesterday?
