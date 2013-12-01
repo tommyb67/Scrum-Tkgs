@@ -1,5 +1,16 @@
 #Thanksgiving Weekend Scrums
 
+##Morning Scrum - 2013.12.01 - 11:00 am
+
+###What did I do yesterday?
+  * I completed 17 exercises of Learn Ruby the hard way.  I worked on trying to import the data from the learning objectives google spreadsheet.  I used the Roo gem and instructions from a Railscast (#396).  I could not get it to work, so I downloaded the google sheet and saved as a CSV.  I was getting different errors, It does feel close.  If I can't get that to work quickly today, I will go back to how we did it in class.  I also updated the learning objectives links a bit.
+
+###What are you planning to do today?
+  * Today will be a purposely slower day.  I have worked pretty hard over the last few days a need to scale back a bit before launching into week 11.  Every day is getting more and more critical. However, as stated in an earlier scrum, this is still a marathon.  Learning something everyday is more important that plowing through a lots of material and retaining none of it.  That said I would like to get through at least 5 more Learning the hard way exercises and get the objectives displayed in my app.  I will also scan through our class hip chat and add links in the misc section
+
+###Any Obstacles?
+  * Fighting myself.  I need to keep the long term goal in mind and continue to break down what I need to learn on a given day.
+
 ##Morning Scrum - 2013.11.30 - 8:30 am
 
 ###What did I do yesterday?
